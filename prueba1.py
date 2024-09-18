@@ -1,3 +1,4 @@
+#Ejercicio que solicita la información de 5 sismos para 5 departamentos, en base a eso
 promedioSismos=0
 totalDep=5
 totalmuestras= 5
